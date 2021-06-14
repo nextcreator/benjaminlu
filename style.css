@@ -1,0 +1,92 @@
+header{
+    background-color: blue;
+    border: crimson solid 3px;
+    border-radius: 30px;    
+}
+nav ul li a{
+    font-size: larger;
+    color: cyan;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    display: inline;
+    text-decoration: none;
+    width: 115px;
+    display: inline;
+    margin-right: 5%;
+    padding: 10px;
+}
+nav ul{
+    list-style-type:none;
+    display: inline;
+
+}
+nav ul li{
+    display: inline;
+}
+body{
+    background-color: teal ; 
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+
+}
+form {
+    border-radius: 10px;
+     border-color: chartreuse;
+     border-style: solid;
+     border-width: 3px;
+     background-color: crimson;
+     width: 30%;
+     font-family: Verdana, Geneva, Tahoma, sans-serif;
+     font-weight: bolder;
+
+}
+form button{
+    background-color: rbaed;
+    color:black
+}
+h1{
+    font-family: cochin;
+    margin: 10%;
+}
+p{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+    font-weight: bold;
+    color: yellowgreen;
+    margin: 10%;
+    padding: 20px;
+}
+img{
+width: 50%;
+height: 50%;
+}
+.wrapper{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    gap: 10px;
+}
+.NBC{
+    background-color: blue;
+}
+.NASA{
+    background-color: crimson;
+}
+.ABC{
+    background-color: darkgreen;
+}
+textarea{
+    margin-left: 30%;
+}
+button{
+    margin-left: 30%;
+}
+.Register{
+    font-size: x-large;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    margin: 20%;
+    padding: 10px;
+    background-color:red ;
+
+
+}
